@@ -11,10 +11,10 @@
 	* die Möglichkeit haben einer oder mehreren Klassen eine Umfrage zuweisen.
 	* das Datum des Umfragestarts und die Laufzeit der Umfrage angeben können.
 	* die Auswertungen der einzelnen Umfragen einsehen können.
-* Ein/e Schüler/in:
+* Ein/e Schüler/in muss:
 	* sich mit den anonymisierten  Anmeldedaten einmalig anmelden können.
 	* die Fragen per Klick bewerten können (auf einer Skala von 1 bis 5).
-* Rolle System:
+* weitere Anforderungen:
 	* die Benutzernamen und Passwörter für eine Umfrage müssen beim Umfragebeginn anonymisiert an die schulischen Emailadressen der Schüler gesendet werden.
 	* Alle Auswertungen sind Klassenweise zusammengefasst.
 	* Die anonymisierten Anmeldedaten sind ausschließlich für eine ausgewählte Umfrage gültig und verlieren ihre Gültigkeit bei Antritt der Umfrage.
