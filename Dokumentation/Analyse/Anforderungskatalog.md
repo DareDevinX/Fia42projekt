@@ -23,7 +23,6 @@
 * Ein/e Lehrer/in kann die Auswertungen der befragten Klasse zugänglich machen.
 
 ###Abgrenzungskriterien
-* Es ist nicht möglich weitere Fragen dem Pool hinzuzufügen. 
 * Es wird keine Einzelauswertung von Teilnehmern bereitgestellt. 
 * Eine erneute Bereitstellung von anonymisierten Zugangsdaten ist nicht möglich.
 
