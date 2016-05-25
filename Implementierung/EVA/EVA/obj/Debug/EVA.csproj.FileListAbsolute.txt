@@ -1,0 +1,15 @@
+D:\git\Fia42projekt\Fia42projekt\Implementierung\EVA\EVA\bin\Debug\EVA.exe.config
+D:\git\Fia42projekt\Fia42projekt\Implementierung\EVA\EVA\bin\Debug\EVA.exe
+D:\git\Fia42projekt\Fia42projekt\Implementierung\EVA\EVA\bin\Debug\EVA.pdb
+D:\git\Fia42projekt\Fia42projekt\Implementierung\EVA\EVA\obj\Debug\EVA.csprojResolveAssemblyReference.cache
+D:\git\Fia42projekt\Fia42projekt\Implementierung\EVA\EVA\obj\Debug\MainWindow.baml
+D:\git\Fia42projekt\Fia42projekt\Implementierung\EVA\EVA\obj\Debug\View\MainWindow.baml
+D:\git\Fia42projekt\Fia42projekt\Implementierung\EVA\EVA\obj\Debug\MainWindow.g.cs
+D:\git\Fia42projekt\Fia42projekt\Implementierung\EVA\EVA\obj\Debug\View\MainWindow.g.cs
+D:\git\Fia42projekt\Fia42projekt\Implementierung\EVA\EVA\obj\Debug\App.g.cs
+D:\git\Fia42projekt\Fia42projekt\Implementierung\EVA\EVA\obj\Debug\EVA_MarkupCompile.cache
+D:\git\Fia42projekt\Fia42projekt\Implementierung\EVA\EVA\obj\Debug\EVA.g.resources
+D:\git\Fia42projekt\Fia42projekt\Implementierung\EVA\EVA\obj\Debug\EVA.Properties.Resources.resources
+D:\git\Fia42projekt\Fia42projekt\Implementierung\EVA\EVA\obj\Debug\EVA.csproj.GenerateResource.Cache
+D:\git\Fia42projekt\Fia42projekt\Implementierung\EVA\EVA\obj\Debug\EVA.exe
+D:\git\Fia42projekt\Fia42projekt\Implementierung\EVA\EVA\obj\Debug\EVA.pdb
