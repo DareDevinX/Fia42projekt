@@ -21,6 +21,8 @@
 
 ###Wunschkriterien
 * Ein/e Lehrer/in kann die Auswertungen der befragten Klasse zugänglich machen.
+* Fragen sollen in einem Fragenpool veröffentlicht werden können.
+* Bearbeiten/Löschen von Fragen
 
 ###Abgrenzungskriterien
 * Es wird keine Einzelauswertung von Teilnehmern bereitgestellt. 
