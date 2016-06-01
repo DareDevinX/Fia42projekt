@@ -19,7 +19,7 @@
 	* PF130 die Benutzernamen und Passwörter für eine Umfrage müssen beim Umfragebeginn anonymisiert an die schulischen Emailadressen der Schüler gesendet werden.
 	* PF140 Alle Auswertungen sind Klassenweise und lehrerweise zusammengefasst.
 	* PF150 Die anonymisierten Anmeldedaten sind ausschließlich für eine ausgewählte Umfrage gültig und verlieren ihre Gültigkeit bei Antritt der Umfrage.
-	* PF160D ie Ergebnisse der einzelnen Lehrer dürfen für keinen anderen Lehrer einsichtbar sein.
+	* PF160 Die Ergebnisse der einzelnen Lehrer dürfen für keinen anderen Lehrer einsichtbar sein.
 
 ###Wunschkriterien
 * Ein/e Lehrer/in kann die Auswertungen der befragten Klasse zugänglich machen.
